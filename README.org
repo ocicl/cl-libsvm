@@ -1,0 +1,10 @@
+* cl-libsvm
+
+Common Lisp wrapper for the libsvm support vector machine library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/melisgl/cl-libsvm.git   |
+| commit  | 3cb3e2f  |
+| systems | cl-libsvm |
+|---------+-------------------------------------------|
+
